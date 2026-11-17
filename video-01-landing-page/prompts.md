@@ -73,28 +73,6 @@ Before writing code:
 Do not add functionality outside this milestone.
 ```
 
-## Prompt 2 — Improve the Design
-
-```text
-Stop adding features.
-
-Review this website as an experienced creative director specializing in premium photography brands.
-
-Identify the 5 things that make the current design feel generic or template-like.
-
-Focus on:
-- typography
-- image composition
-- spacing
-- hierarchy
-- storytelling
-- emotional impact
-
-Then improve those five areas without adding new functionality.
-
-The final website should feel designed for a real premium photographer, not generated from a generic website template.
-```
-
 ## Notes
 
 This project is a fictional photography business created for educational purposes.
