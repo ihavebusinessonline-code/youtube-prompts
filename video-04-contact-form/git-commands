@@ -1,1 +1,6 @@
+**Git-Commands**
 
+git status
+git add .
+git commit -m 'Add contact form'
+git push
